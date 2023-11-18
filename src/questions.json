@@ -1,0 +1,79 @@
+[
+  {
+    "question": "What is the speed of light",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of india",
+    "subject": "New Delhi",
+    "topic": "Gk",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the speed of sound",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of USA",
+    "subject": "New Delhi",
+    "topic": "Gk",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of Canada",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Meadium",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of Srilanka",
+    "subject": "New Delhi",
+    "topic": "Gk",
+    "difficulty": "Meadium",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of Pakistan",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Meadium",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of UK",
+    "subject": "New Delhi",
+    "topic": "Gk",
+    "difficulty": "Meadium",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of Argentina",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Meadium",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of china",
+    "subject": "New Delhi",
+    "topic": "Gk",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of France",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 5
+  }
+]
