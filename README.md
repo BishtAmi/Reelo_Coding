@@ -10,8 +10,10 @@ Create a Project Directory:
 Create a new directory for your project. 
 Open a terminal or command prompt, navigate to the directory where you want to create your project, and run:
 
+````
 mkdir Reelo
 cd Reelo
+````
 
 Initialize Node.js Project:
 
